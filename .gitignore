@@ -222,3 +222,5 @@ buildNumber.properties
 .history
 
 # End of https://www.toptal.com/developers/gitignore/api/java,maven,intellij,eclipse,visualstudiocode
+.idea/
+**.iml
